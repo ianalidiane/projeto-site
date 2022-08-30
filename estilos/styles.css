@@ -4,14 +4,14 @@ font-size: 16px;
 }
 
 body {
-    background-color: rgb(226, 127, 114);
+    background-color: rgb(14, 4, 3);
 
 }
 
 main {
-    background-color: rgba(240, 248, 255, 0.562);
+    background-color: rgba(240, 248, 255, 0.486);
     width: 500px;
     margin: auto;
     padding: auto;
-    box-shadow: 3px 3px 5px rgba(165, 42, 42, 0.548);
+    box-shadow: 3px 3px 5px rgba(5, 3, 3, 0.548);
 }
